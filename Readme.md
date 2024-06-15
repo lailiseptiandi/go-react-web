@@ -1,3 +1,3 @@
-# Go + React Js Simple Web
+# Go Simple Web
 
 Hello
